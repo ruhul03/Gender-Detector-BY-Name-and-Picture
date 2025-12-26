@@ -1,0 +1,7 @@
+{
+  "name": "Copy of Gender Oracle",
+  "description": "An AI-powered utility that predicts gender identity based on names or images using Gemini 3 Flash and Gemini 2.5 Flash Image analysis.",
+  "requestFramePermissions": [
+    "camera"
+  ]
+}
